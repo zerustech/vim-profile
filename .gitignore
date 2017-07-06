@@ -1,0 +1,9 @@
+*.swp
+.netrwhist
+.DS_Store
+autoload/pathogem.vim
+.vim/bundle/vim-indent
+.vim/bundle/vim-instant-markdown
+.vim/bundle/vim-less
+.vim/bundle/vim-twig
+bundle
