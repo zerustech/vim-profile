@@ -33,7 +33,7 @@ $ git clone https://github.com/zerustech/vim-html.git
 $ sudo npm -g install instant-markdown-d
 $ cd ~/.vim/bundle
 $ git clone https://github.com/suan/vim-instant-markdown.git
-$ cd <DIRECTORY_OF_node_modules>/instant-markdown-d
+$ cd /opt/local/lib/node_modules/instant-markdown-d
 $ ln -s ~/.vim/bundle-resources/vim-instant-markdown/themes .
 $ patch < ~/.vim/bundle-resources/vim-instant-markdown/index.html.patch
 ```
