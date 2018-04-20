@@ -28,14 +28,21 @@ $ cd ~/.vim/bundle
 $ git clone https://github.com/zerustech/vim-html.git
 ```
 
+### zerustech/instant-markdown-d
+```bash
+$ cd ~
+$ git clone https://github.com/zerustech/instant-markdown-d.git
+$ cd instant-markdown-d
+$ git checkout -b zerustech-master origin/zerustech-master
+$ npm install
+$ cd /usr/local/bin
+$ sudo ln -s ~/instant-markdown-d/instant-markdown-d .
+```
+
 ### suan/vim-instant-markdown ###
 ```bash
-$ sudo npm -g install instant-markdown-d
 $ cd ~/.vim/bundle
 $ git clone https://github.com/suan/vim-instant-markdown.git
-$ cd /opt/local/lib/node_modules/instant-markdown-d
-$ ln -s ~/.vim/bundle-resources/vim-instant-markdown/themes .
-$ patch < ~/.vim/bundle-resources/vim-instant-markdown/index.html.patch
 ```
 
 ### groenewege/vim-less ###
@@ -66,6 +73,7 @@ References
 * The [groenewege/vim-less][6] project
 * The [zerustech/vim-twig][7] project
 * The [junegunn/vader.vim][8] project
+* The [zerustech/instant-markdown-d][9] project
 
 [1]: https://opensource.org/licenses/MIT "The MIT License (MIT)"
 [2]: https://github.com/zerustech/vim-profile.git "The zerustech/vim-profile project"
@@ -75,6 +83,7 @@ References
 [6]: https://github.com/groenewege/vim-less.git "The groenewege/vim-less project"
 [7]: https://github.com/zerustech/vim-twig.git "The zerustech/vim-twig project"
 [8]: https://github.com/junegunn/vader.vim "The junegunn/vader.vim project"
+[9]: https://github.com/zerustech/instant-markdown-d.git "zerustech/instant-markdown-d"
 
 License
 -------
