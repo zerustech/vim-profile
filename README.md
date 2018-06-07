@@ -1,7 +1,7 @@
-# ZerusTech Vim Profile #
+# ZerusTech Vim Profile
 The standard vim profile of ZerusTech.
 
-# Moved to GitLab #
+# Project Moved to GitLab
 This project has been moved to [GitLab][1]
 
 References
