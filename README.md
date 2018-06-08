@@ -8,4 +8,4 @@ References
 ----------
 * The [zerustech/vim-profile][1]
 
-[1]: https://gitlab.cm/zerustech/vim-profile
+[1]: https://gitlab.com/zerustech/vim-profile
